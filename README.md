@@ -13,3 +13,5 @@ Start command:
 
 Runs a database drop-create followed by import.sql custom script for triggers and notifications which are consumed
 by next-gen-graphql server.
+
+Heroku App Test
