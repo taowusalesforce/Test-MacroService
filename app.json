@@ -1,0 +1,12 @@
+{
+  "name": "testmacroservice",
+  "scripts": {},
+  "env": {},
+  "formation": {},
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-java.git"
+    }
+  ]
+}
